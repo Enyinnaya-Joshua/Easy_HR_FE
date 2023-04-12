@@ -78,7 +78,7 @@ export const Elements = createBrowserRouter([
     element: <Otp/>
   },
   {
-    path:"/Sign-up-option",
+    path:"/sign-up-option",
     element: <SignUpOption/>
   },
   {
